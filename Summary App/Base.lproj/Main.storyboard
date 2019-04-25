@@ -17,14 +17,121 @@
                     <view key="view" contentMode="scaleToFill" id="N70-KB-v3m">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="yjS-ov-to7">
+                                <rect key="frame" x="16" y="36" width="288" height="467"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">Was born on August 16, 1990
+Live in Moscow
+Phone: +7 (916) 123 45 67
+Email: 123@gmail.com</string>
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content" base64-UTF8="YES">
+CgoKA
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment content="The finished educational institutions: ">
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content" base64-UTF8="YES">
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCg
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content">Finished 11 classes of School #867 in 2007.
+
+The Russia University of Transport (MIIT) on specialty the design engineer of bridges and transport tunnels in 2013.</string>
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content" base64-UTF8="YES">
+CgoKA
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment content="Military service:">
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HelveticaNeue-Bold"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment>
+                                        <string key="content" base64-UTF8="YES">
+Cgo
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment content="Graduated from the annual military service with the rank of Junior Sergeant.">
+                                        <attributes>
+                                            <font key="NSFont" size="16" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                <tabStops/>
+                                            </paragraphStyle>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences" autocorrectionType="no"/>
+                            </textView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="yjS-ov-to7" firstAttribute="top" secondItem="W7m-lm-a7p" secondAttribute="top" constant="16" id="5Yb-ya-sOV"/>
+                            <constraint firstItem="W7m-lm-a7p" firstAttribute="bottom" secondItem="yjS-ov-to7" secondAttribute="bottom" constant="16" id="5lx-Ub-RRJ"/>
+                            <constraint firstItem="W7m-lm-a7p" firstAttribute="trailing" secondItem="yjS-ov-to7" secondAttribute="trailing" constant="16" id="duP-ui-Ntr"/>
+                            <constraint firstItem="yjS-ov-to7" firstAttribute="leading" secondItem="W7m-lm-a7p" secondAttribute="leading" constant="16" id="mr5-mR-JSh"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="W7m-lm-a7p"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="About" image="business-card-of-a-man-with-contact-info" selectedImage="business-card-of-a-man-with-contact-info" id="2gA-ap-u7w"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fUc-eD-2p2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1039" y="1233"/>
+            <point key="canvasLocation" x="-1040.625" y="1232.7464788732395"/>
         </scene>
         <!--Profile-->
         <scene sceneID="T8z-z4-Zd7">
@@ -33,14 +140,39 @@
                     <view key="view" contentMode="scaleToFill" id="DqZ-YD-RXl">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="UserPhoto" translatesAutoresizingMaskIntoConstraints="NO" id="MqZ-pm-oqO">
+                                <rect key="frame" x="35" y="36" width="250" height="250"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="250" id="7Px-1f-TLX"/>
+                                    <constraint firstAttribute="width" constant="250" id="S00-yZ-TJy"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ruslan Safin" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tzt-H6-jPW">
+                                <rect key="frame" x="16" y="306" width="288" height="30"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="25"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="aqb-47-NYk" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="tzt-H6-jPW" secondAttribute="bottom" constant="35" id="4Z0-fM-WwD"/>
+                            <constraint firstItem="tzt-H6-jPW" firstAttribute="top" secondItem="MqZ-pm-oqO" secondAttribute="bottom" constant="20" id="e1f-uI-w5J"/>
+                            <constraint firstItem="MqZ-pm-oqO" firstAttribute="top" secondItem="aqb-47-NYk" secondAttribute="top" constant="16" id="hb8-qp-dzd"/>
+                            <constraint firstItem="tzt-H6-jPW" firstAttribute="leading" secondItem="aqb-47-NYk" secondAttribute="leading" constant="16" id="hdS-v4-6em"/>
+                            <constraint firstItem="aqb-47-NYk" firstAttribute="trailing" secondItem="tzt-H6-jPW" secondAttribute="trailing" constant="16" id="mfs-kd-bdJ"/>
+                            <constraint firstItem="aqb-47-NYk" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="MqZ-pm-oqO" secondAttribute="trailing" constant="16" id="qAP-Np-PBf"/>
+                            <constraint firstItem="MqZ-pm-oqO" firstAttribute="centerX" secondItem="DqZ-YD-RXl" secondAttribute="centerX" id="u5H-9A-0PI"/>
+                            <constraint firstItem="MqZ-pm-oqO" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="aqb-47-NYk" secondAttribute="leading" constant="16" id="yq2-cg-MGo"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="aqb-47-NYk"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Profile" image="user" selectedImage="user" id="kmI-Tu-wzW"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DNx-bg-W0L" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1883" y="1233"/>
+            <point key="canvasLocation" x="-1884.375" y="1232.7464788732395"/>
         </scene>
         <!--Info-->
         <scene sceneID="U6P-1f-ZwM">
@@ -49,14 +181,31 @@
                     <view key="view" contentMode="scaleToFill" id="cjx-0h-nb3">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="justified" translatesAutoresizingMaskIntoConstraints="NO" id="Vnr-9D-2Lg">
+                                <rect key="frame" x="16" y="36" width="288" height="467"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <string key="text">Able to work alone or in a team. Sociable, quickly establish business relationships with people. I can make my own decisions. Executive, responsible, purposeful. 
+
+I do not abuse alcoholic beverages, do not smoke.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="LXs-fy-jji" firstAttribute="bottom" secondItem="Vnr-9D-2Lg" secondAttribute="bottom" constant="16" id="MvD-FZ-kNQ"/>
+                            <constraint firstItem="Vnr-9D-2Lg" firstAttribute="leading" secondItem="LXs-fy-jji" secondAttribute="leading" constant="16" id="mpc-V4-9Su"/>
+                            <constraint firstItem="LXs-fy-jji" firstAttribute="trailing" secondItem="Vnr-9D-2Lg" secondAttribute="trailing" constant="16" id="qsc-gj-KEe"/>
+                            <constraint firstItem="Vnr-9D-2Lg" firstAttribute="top" secondItem="LXs-fy-jji" secondAttribute="top" constant="16" id="wRk-Z0-KPh"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="LXs-fy-jji"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Info" image="care-about-planet" selectedImage="care-about-planet" id="Pyt-id-Tcp"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4HY-jQ-uTv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-229" y="1233"/>
+            <point key="canvasLocation" x="-218" y="1233"/>
         </scene>
         <!--Tab Bar View Controller-->
         <scene sceneID="Dtf-cW-Bby">
@@ -79,6 +228,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="UserPhoto" width="960" height="720"/>
         <image name="business-card-of-a-man-with-contact-info" width="32" height="32"/>
         <image name="care-about-planet" width="24" height="24"/>
         <image name="user" width="24" height="24"/>
