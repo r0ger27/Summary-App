@@ -9,3 +9,4 @@ In this application, we need to create TapBar with 3 buttons and to write the sm
 26.04.19 Update:
 
 - fixed: Keyboard cannot be invoked.
+- fixed: Removed unnecessary methods and comments in appDelegate.
